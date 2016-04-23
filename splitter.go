@@ -1,4 +1,4 @@
-package heka_datalog
+package heka_kafkalog
 
 import (
 	"github.com/mozilla-services/heka/pipeline"
